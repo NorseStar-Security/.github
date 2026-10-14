@@ -20,9 +20,9 @@ Autonomous operations require inspectable tools. We maintain this collection so 
 
 These forks are unmodified upstream copies of open-source AI pentest harnesses and benchmarks, synced weekly. Code, credit, and licenses belong to the original authors. Follow each repository's upstream link for its source, documentation, and contribution process.
 
-**129** repositories · synced weekly from upstream · last sync 2026-10-14
+**130** repositories · synced weekly from upstream · last sync 2026-10-14
 
-#### Harnesses and tools · 97
+#### Harnesses and tools · 98
 
 | Repository | Upstream | ★ |
 |---|---|--:|
@@ -37,7 +37,7 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 | [deepsec](https://github.com/Norse-Star-Security/deepsec) | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 8.1k |
 | [claude-red](https://github.com/Norse-Star-Security/Claude-Red) | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 7.4k |
 
-<details><summary>All 97</summary>
+<details><summary>All 98</summary>
 
 | Repository | Upstream | ★ |
 |---|---|--:|
@@ -138,6 +138,7 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 | [NyxStrike](https://github.com/Norse-Star-Security/nyxstrike) | [CommonHuman-Lab/nyxstrike](https://github.com/CommonHuman-Lab/nyxstrike) | 155 |
 | [Cochise](https://github.com/Norse-Star-Security/cochise) | [andreashappe/cochise](https://github.com/andreashappe/cochise) | 142 |
 | [CyberStrikeAI](https://github.com/Norse-Star-Security/CyberStrikeAI) | [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 0 |
+| [ScopeWeaver](https://github.com/Norse-Star-Security/scopeweaver) | [cskwork/scopeweaver](https://github.com/cskwork/scopeweaver) | 0 |
 
 </details>
 
@@ -195,7 +196,7 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 
 </details>
 
-<p align="right"><a href="https://github.com/orgs/Norse-Star-Security/repositories?type=fork">Browse all 129 forks →</a></p>
+<p align="right"><a href="https://github.com/orgs/Norse-Star-Security/repositories?type=fork">Browse all 130 forks →</a></p>
 
 <p align="center"><a href="https://sec590.norsestarsecurity.com/"><img src="assets/footer.svg" width="100%" alt="SANS SEC590: Autonomous Penetration Testing: Build, Validate, and Supervise"></a></p>
 
