@@ -14,13 +14,7 @@ Autonomous operations require inspectable tools. We maintain this collection so 
 
 ### DarkWatch Platform
 
-| Product | |
-|---|---|
-| [DarkWatch Live](https://norsestarsecurity.com/products/darkwatch-live.html) | Agentic Swarm Storm Observatory |
-| [Bifrost Sensor Network](https://norsestarsecurity.com/products/bifrost.html) | Global Collection Grid |
-| [Valkyrie AI](https://norsestarsecurity.com/products/valkyrie.html) | Analyst Copilot & Triage |
-| [Yggdrasil Graph](https://norsestarsecurity.com/products/yggdrasil.html) | Attribution & Infrastructure Graph |
-| [RuneFeed Intelligence](https://norsestarsecurity.com/products/runefeed.html) | Curated Threat-Intel Feeds & API |
+<table><tr><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/darkwatch-live.html"><b>DarkWatch Live</b></a><br><sub>Agentic Swarm Storm Observatory</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/bifrost.html"><b>Bifrost Sensor Network</b></a><br><sub>Global Collection Grid</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/valkyrie.html"><b>Valkyrie AI</b></a><br><sub>Analyst Copilot &amp; Triage</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/yggdrasil.html"><b>Yggdrasil Graph</b></a><br><sub>Attribution &amp; Infrastructure Graph</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/runefeed.html"><b>RuneFeed Intelligence</b></a><br><sub>Curated Threat-Intel Feeds &amp; API</sub></td></tr></table>
 
 ### Upstream Mirrors
 
