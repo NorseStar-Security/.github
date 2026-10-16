@@ -12,6 +12,16 @@ Norse Star Security pairs the Agentic Swarm Storm Observatory with an open-sourc
 
 Autonomous operations require inspectable tools. We maintain this collection so researchers can compare harnesses, examine benchmarks, and trace each project to its upstream source before choosing what to build, validate, and supervise.
 
+## Djupleita: Seek Deeper
+
+[![A longship above a hidden network of passages.](https://raw.githubusercontent.com/Norse-Star-Security/djupleita/main/assets/djupleita-hero.png)](https://github.com/Norse-Star-Security/djupleita)
+
+**Seek deeper. Prove the path.**
+
+Our student attack-harness project for SANS SEC590 explores how to build, validate, and supervise autonomous penetration testing. Created for the course by Pedram Amini and Adrian Wood. Early development.
+
+[Explore Djupleita](https://github.com/Norse-Star-Security/djupleita)
+
 ### DarkWatch Platform
 
 <table><tr><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/darkwatch-live.html"><b>DarkWatch Live</b></a><br><sub>Agentic Swarm Storm Observatory</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/bifrost.html"><b>Bifrost Sensor Network</b></a><br><sub>Global Collection Grid</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/valkyrie.html"><b>Valkyrie AI</b></a><br><sub>Analyst Copilot &amp; Triage</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/yggdrasil.html"><b>Yggdrasil Graph</b></a><br><sub>Attribution &amp; Infrastructure Graph</sub></td><td align="center" width="20%"><a href="https://norsestarsecurity.com/products/runefeed.html"><b>RuneFeed Intelligence</b></a><br><sub>Curated Threat-Intel Feeds &amp; API</sub></td></tr></table>
