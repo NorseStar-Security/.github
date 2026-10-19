@@ -2,25 +2,7 @@
 
 <p align="center"><a href="https://norsestarsecurity.com/"><img src="assets/banner.svg" width="100%" alt="NorseStar Security: Agentic swarms. Tracked worldwide."></a></p>
 
-<div align="center">
-
-NorseStar Security pairs the Agentic Swarm Storm Observatory with an open-source collection for building, testing, and supervising autonomous pentest operations.
-
-</div>
-
 <p align="center"><sub><a href="https://norsestarsecurity.com/">norsestarsecurity.com</a> · <a href="https://norsestarsecurity.com/map.html">Live Attacks</a> · <a href="https://norsestarsecurity.com/platform.html">Platform</a> · <a href="https://norsestarsecurity.com/company.html">Company</a> · <a href="https://norsestarsecurity.com/careers.html">Careers</a> · <a href="https://norsestarsecurity.com/contact.html">Contact</a></sub></p>
-
-Autonomous operations require inspectable tools. We maintain this collection so researchers can compare harnesses, examine benchmarks, and trace each project to its upstream source before choosing what to build, validate, and supervise.
-
-## Djupleita: Seek Deeper
-
-[![A longship above a hidden network of passages.](https://raw.githubusercontent.com/NorseStar-Security/djupleita/main/assets/djupleita-hero.png)](https://github.com/NorseStar-Security/djupleita)
-
-**Seek deeper. Prove the path.**
-
-Our student attack-harness project for SANS SEC590 explores how to build, validate, and supervise autonomous penetration testing. Created for the course by Pedram Amini and Adrian Wood. Early development.
-
-[Explore Djupleita](https://github.com/NorseStar-Security/djupleita)
 
 ### DarkWatch Platform
 
@@ -28,9 +10,7 @@ Our student attack-harness project for SANS SEC590 explores how to build, valida
 
 ### Upstream Mirrors
 
-These forks are unmodified upstream copies of open-source AI pentest harnesses and benchmarks, synced weekly. Code, credit, and licenses belong to the original authors. Follow each repository's upstream link for its source, documentation, and contribution process.
-
-**130** repositories · synced weekly from upstream · last sync 2026-10-14
+**130** repositories · synced weekly from upstream · last sync 2026-10-19
 
 #### Harnesses and tools · 98
 
@@ -212,7 +192,7 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 
 <div align="center">
 
-NorseStar Security is a fictional company, the cyber range for SANS SEC590: Autonomous Penetration Testing: Build, Validate, and Supervise, by Pedram Amini and Adrian Wood. The company is fiction. The course is real.
+**This is the real course.** NorseStar Security is the fictional cyber-range we built to teach it, SEC590 is a genuine **SANS** course by Pedram Amini & Adrian Wood.
 
 **[sec590.norsestarsecurity.com](https://sec590.norsestarsecurity.com/)**
 
