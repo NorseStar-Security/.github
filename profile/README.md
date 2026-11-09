@@ -30,125 +30,127 @@ Our student attack-harness project for SANS SEC590 explores how to build, valida
 
 These forks are unmodified upstream copies of open-source AI pentest harnesses and benchmarks, synced weekly. Code, credit, and licenses belong to the original authors. Follow each repository's upstream link for its source, documentation, and contribution process.
 
-**130** repositories · synced weekly from upstream · last sync 2026-10-26
+**132** repositories · synced weekly from upstream · last sync 2026-11-09
 
-#### Harnesses and tools · 98
-
-| Repository | Upstream | ★ |
-|---|---|--:|
-| [Strix](https://github.com/NorseStar-Security/strix) | [usestrix/strix](https://github.com/usestrix/strix) | 68.1k |
-| [Shannon](https://github.com/NorseStar-Security/shannon) | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 48.8k |
-| [reverse-skill](https://github.com/NorseStar-Security/reverse-skill) | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 41.3k |
-| [PentAGI](https://github.com/NorseStar-Security/pentagi) | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 26.1k |
-| [PentestGPT](https://github.com/NorseStar-Security/PentestGPT) | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 15.9k |
-| [HexStrike AI](https://github.com/NorseStar-Security/hexstrike-ai) | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 12.7k |
-| [Codex Security](https://github.com/NorseStar-Security/codex-security) | [openai/codex-security](https://github.com/openai/codex-security) | 11.1k |
-| [CAI](https://github.com/NorseStar-Security/cai) | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 9.8k |
-| [deepsec](https://github.com/NorseStar-Security/deepsec) | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 8.1k |
-| [claude-red](https://github.com/NorseStar-Security/Claude-Red) | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 7.4k |
-
-<details><summary>All 98</summary>
+#### Harnesses and tools · 100
 
 | Repository | Upstream | ★ |
 |---|---|--:|
-| [Strix](https://github.com/NorseStar-Security/strix) | [usestrix/strix](https://github.com/usestrix/strix) | 68.1k |
-| [Shannon](https://github.com/NorseStar-Security/shannon) | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 48.8k |
-| [reverse-skill](https://github.com/NorseStar-Security/reverse-skill) | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 41.3k |
-| [PentAGI](https://github.com/NorseStar-Security/pentagi) | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 26.1k |
-| [PentestGPT](https://github.com/NorseStar-Security/PentestGPT) | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 15.9k |
-| [HexStrike AI](https://github.com/NorseStar-Security/hexstrike-ai) | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 12.7k |
-| [Codex Security](https://github.com/NorseStar-Security/codex-security) | [openai/codex-security](https://github.com/openai/codex-security) | 11.1k |
-| [CAI](https://github.com/NorseStar-Security/cai) | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 9.8k |
-| [deepsec](https://github.com/NorseStar-Security/deepsec) | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 8.1k |
-| [claude-red](https://github.com/NorseStar-Security/Claude-Red) | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 7.4k |
-| [T3MP3ST](https://github.com/NorseStar-Security/T3MP3ST) | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 6.5k |
-| [Decepticon](https://github.com/NorseStar-Security/Decepticon) | [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) | 6k |
-| [Agentic Bug Hunter](https://github.com/NorseStar-Security/Agentic-Bug-Hunter) | [awarexone/Agentic-Bug-Hunter](https://github.com/awarexone/Agentic-Bug-Hunter) | 5.3k |
-| [Claude-BugHunter](https://github.com/NorseStar-Security/Claude-BugHunter) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 5k |
-| [METATRON](https://github.com/NorseStar-Security/METATRON) | [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) | 4.2k |
-| [RAPTOR](https://github.com/NorseStar-Security/raptor) | [gadievron/raptor](https://github.com/gadievron/raptor) | 3.9k |
-| [VulnClaw](https://github.com/NorseStar-Security/VulnClaw) | [Netw0rkNoob/VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) | 3.6k |
-| [Cairn](https://github.com/NorseStar-Security/Cairn) | [oritera/Cairn](https://github.com/oritera/Cairn) | 3.5k |
-| [PentestAgent](https://github.com/NorseStar-Security/pentestagent) | [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) | 3.2k |
-| [CyberStrike](https://github.com/NorseStar-Security/CyberStrike) | [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | 3.1k |
-| [Redamon](https://github.com/NorseStar-Security/redamon) | [samugit83/redamon](https://github.com/samugit83/redamon) | 3k |
-| [JADX-AI-MCP](https://github.com/NorseStar-Security/jadx-ai-mcp) | [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 2.9k |
-| [Pentest Swarm AI](https://github.com/NorseStar-Security/Pentest-Swarm-AI) | [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) | 2.8k |
+| [REA](https://github.com/NorseStar-Security/rea) | [morluto/rea](https://github.com/morluto/rea) | 445.9k |
+| [Strix](https://github.com/NorseStar-Security/strix) | [usestrix/strix](https://github.com/usestrix/strix) | 74.6k |
+| [Shannon](https://github.com/NorseStar-Security/shannon) | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 51.5k |
+| [reverse-skill](https://github.com/NorseStar-Security/reverse-skill) | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 44.4k |
+| [PentAGI](https://github.com/NorseStar-Security/pentagi) | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 33.8k |
+| [PentestGPT](https://github.com/NorseStar-Security/PentestGPT) | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 16.3k |
+| [HexStrike AI](https://github.com/NorseStar-Security/hexstrike-ai) | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 13.5k |
+| [Codex Security](https://github.com/NorseStar-Security/codex-security) | [openai/codex-security](https://github.com/openai/codex-security) | 11.3k |
+| [claude-red](https://github.com/NorseStar-Security/Claude-Red) | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 10.5k |
+| [CAI](https://github.com/NorseStar-Security/cai) | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 9.9k |
+
+<details><summary>All 100</summary>
+
+| Repository | Upstream | ★ |
+|---|---|--:|
+| [REA](https://github.com/NorseStar-Security/rea) | [morluto/rea](https://github.com/morluto/rea) | 445.9k |
+| [Strix](https://github.com/NorseStar-Security/strix) | [usestrix/strix](https://github.com/usestrix/strix) | 74.6k |
+| [Shannon](https://github.com/NorseStar-Security/shannon) | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 51.5k |
+| [reverse-skill](https://github.com/NorseStar-Security/reverse-skill) | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 44.4k |
+| [PentAGI](https://github.com/NorseStar-Security/pentagi) | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 33.8k |
+| [PentestGPT](https://github.com/NorseStar-Security/PentestGPT) | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 16.3k |
+| [HexStrike AI](https://github.com/NorseStar-Security/hexstrike-ai) | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 13.5k |
+| [Codex Security](https://github.com/NorseStar-Security/codex-security) | [openai/codex-security](https://github.com/openai/codex-security) | 11.3k |
+| [claude-red](https://github.com/NorseStar-Security/Claude-Red) | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 10.5k |
+| [CAI](https://github.com/NorseStar-Security/cai) | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 9.9k |
+| [deepsec](https://github.com/NorseStar-Security/deepsec) | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 8.4k |
+| [T3MP3ST](https://github.com/NorseStar-Security/T3MP3ST) | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 7k |
+| [Decepticon](https://github.com/NorseStar-Security/Decepticon) | [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) | 6.6k |
+| [Agentic Bug Hunter](https://github.com/NorseStar-Security/Agentic-Bug-Hunter) | [awarexone/Agentic-Bug-Hunter](https://github.com/awarexone/Agentic-Bug-Hunter) | 5.8k |
+| [Claude-BugHunter](https://github.com/NorseStar-Security/Claude-BugHunter) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 5.5k |
+| [Cairn](https://github.com/NorseStar-Security/Cairn) | [oritera/Cairn](https://github.com/oritera/Cairn) | 5k |
+| [METATRON](https://github.com/NorseStar-Security/METATRON) | [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) | 4.3k |
+| [RAPTOR](https://github.com/NorseStar-Security/raptor) | [gadievron/raptor](https://github.com/gadievron/raptor) | 4k |
+| [VulnClaw](https://github.com/NorseStar-Security/VulnClaw) | [Netw0rkNoob/VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) | 3.9k |
+| [CyberStrike](https://github.com/NorseStar-Security/CyberStrike) | [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | 3.5k |
+| [Redamon](https://github.com/NorseStar-Security/redamon) | [samugit83/redamon](https://github.com/samugit83/redamon) | 3.3k |
+| [PentestAgent](https://github.com/NorseStar-Security/pentestagent) | [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) | 3.3k |
+| [Pentest Swarm AI](https://github.com/NorseStar-Security/Pentest-Swarm-AI) | [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) | 3.2k |
+| [JADX-AI-MCP](https://github.com/NorseStar-Security/jadx-ai-mcp) | [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 3k |
 | [vulnhuntr](https://github.com/NorseStar-Security/vulnhuntr) | [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) | 2.8k |
-| [Deep Eye](https://github.com/NorseStar-Security/deep-eye) | [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) | 2.3k |
-| [pentest-ai-agents](https://github.com/NorseStar-Security/pentest-ai-agents) | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | 2.3k |
-| [open-kritt](https://github.com/NorseStar-Security/open-kritt) | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | 2.3k |
-| [jshookmcp](https://github.com/NorseStar-Security/jshookmcp) | [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) | 2k |
+| [pentest-ai-agents](https://github.com/NorseStar-Security/pentest-ai-agents) | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | 2.4k |
+| [open-kritt](https://github.com/NorseStar-Security/open-kritt) | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | 2.4k |
+| [Deep Eye](https://github.com/NorseStar-Security/deep-eye) | [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) | 2.4k |
+| [jshookmcp](https://github.com/NorseStar-Security/jshookmcp) | [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) | 2.1k |
 | [Guardian](https://github.com/NorseStar-Security/guardian-cli) | [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) | 1.9k |
-| [OpenOSINT](https://github.com/NorseStar-Security/OpenOSINT) | [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | 1.7k |
-| [ptai](https://github.com/NorseStar-Security/pentest-ai) | [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) | 1.7k |
-| [Burp AI Agent](https://github.com/NorseStar-Security/burp-ai-agent) | [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) | 1.5k |
-| [Pentest Copilot](https://github.com/NorseStar-Security/pentest-copilot) | [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) | 1.5k |
-| [AutoCVE](https://github.com/NorseStar-Security/AutoCVE) | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1.4k |
-| [NeuroSploit](https://github.com/NorseStar-Security/NeuroSploit) | [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) | 1.4k |
+| [OpenOSINT](https://github.com/NorseStar-Security/OpenOSINT) | [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | 1.9k |
+| [ptai](https://github.com/NorseStar-Security/pentest-ai) | [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) | 1.8k |
+| [Burp AI Agent](https://github.com/NorseStar-Security/burp-ai-agent) | [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) | 1.6k |
+| [ida-mcp](https://github.com/NorseStar-Security/ida-mcp) | [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) | 1.6k |
+| [Pentest Copilot](https://github.com/NorseStar-Security/pentest-copilot) | [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) | 1.6k |
+| [NeuroSploit](https://github.com/NorseStar-Security/NeuroSploit) | [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) | 1.5k |
+| [LuaN1aoAgent](https://github.com/NorseStar-Security/LuaN1aoAgent) | [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) | 1.5k |
 | [PentesterFlow](https://github.com/NorseStar-Security/agent) | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | 1.4k |
-| [LuaN1aoAgent](https://github.com/NorseStar-Security/LuaN1aoAgent) | [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) | 1.4k |
+| [open-reverselab](https://github.com/NorseStar-Security/open-reverselab) | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | 1.4k |
 | [recon-skills](https://github.com/NorseStar-Security/recon-skills) | [uphiago/recon-skills](https://github.com/uphiago/recon-skills) | 1.3k |
+| [xalgorix](https://github.com/NorseStar-Security/xalgorix) | [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) | 1.3k |
 | [hackingBuddyGPT](https://github.com/NorseStar-Security/hackingBuddyGPT) | [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) | 1.3k |
-| [open-reverselab](https://github.com/NorseStar-Security/open-reverselab) | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | 1.3k |
-| [Burp MCP Server](https://github.com/NorseStar-Security/mcp-server) | [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) | 1.2k |
-| [xalgorix](https://github.com/NorseStar-Security/xalgorix) | [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) | 1.2k |
+| [AutoCVE](https://github.com/NorseStar-Security/AutoCVE) | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1.2k |
+| [Dark-Moon](https://github.com/NorseStar-Security/Dark-Moon) | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | 1.2k |
+| [VulnHunter](https://github.com/NorseStar-Security/VulnHunter) | [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) | 1.2k |
 | [Nebula](https://github.com/NorseStar-Security/nebula) | [berylliumsec/nebula](https://github.com/berylliumsec/nebula) | 1.1k |
 | [vigolium](https://github.com/NorseStar-Security/vigolium) | [vigolium/vigolium](https://github.com/vigolium/vigolium) | 1.1k |
-| [VulnHunter](https://github.com/NorseStar-Security/VulnHunter) | [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) | 1.1k |
-| [Clearwing](https://github.com/NorseStar-Security/clearwing) | [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing) | 1.1k |
 | [AIRecon](https://github.com/NorseStar-Security/airecon) | [pikpikcu/airecon](https://github.com/pikpikcu/airecon) | 1.1k |
-| [ida-mcp](https://github.com/NorseStar-Security/ida-mcp) | [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) | 1k |
-| [Dark-Moon](https://github.com/NorseStar-Security/Dark-Moon) | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | 1k |
-| [Pentest Agent Suite](https://github.com/NorseStar-Security/pentest-agents) | [H-mmer/pentest-agents](https://github.com/H-mmer/pentest-agents) | 1k |
-| [Cain](https://github.com/NorseStar-Security/cain-agent) | [cdxiaodong/cain-agent](https://github.com/cdxiaodong/cain-agent) | 961 |
-| [Cybermes](https://github.com/NorseStar-Security/Cybermes) | [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) | 932 |
+| [Clearwing](https://github.com/NorseStar-Security/clearwing) | [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing) | 1.1k |
+| [Pentest Agent Suite](https://github.com/NorseStar-Security/pentest-agents) | [H-mmer/pentest-agents](https://github.com/H-mmer/pentest-agents) | 1.1k |
+| [Cybermes](https://github.com/NorseStar-Security/Cybermes) | [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) | 1k |
+| [0](https://github.com/NorseStar-Security/0) | [0sec-labs/0](https://github.com/0sec-labs/0) | 998 |
+| [Cain](https://github.com/NorseStar-Security/cain-agent) | [cdxiaodong/cain-agent](https://github.com/cdxiaodong/cain-agent) | 946 |
+| [ScopeWeaver](https://github.com/NorseStar-Security/scopeweaver) | [cskwork/scopeweaver](https://github.com/cskwork/scopeweaver) | 946 |
+| [PentestCode](https://github.com/NorseStar-Security/pentestcode) | [s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode) | 940 |
+| [h5i](https://github.com/NorseStar-Security/h5i) | [h5i-dev/h5i](https://github.com/h5i-dev/h5i) | 910 |
+| [Metis](https://github.com/NorseStar-Security/metis) | [arm/metis](https://github.com/arm/metis) | 891 |
 | [RamiGPT](https://github.com/NorseStar-Security/RamiGPT) | [M507/RamiGPT](https://github.com/M507/RamiGPT) | 886 |
-| [Reaper](https://github.com/NorseStar-Security/reaper) | [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) | 885 |
-| [Metis](https://github.com/NorseStar-Security/metis) | [arm/metis](https://github.com/arm/metis) | 877 |
-| [MCP-Kali-Server](https://github.com/NorseStar-Security/MCP-Kali-Server) | [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server) | 844 |
-| [PentestCode](https://github.com/NorseStar-Security/pentestcode) | [s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode) | 834 |
-| [Nightcrawler](https://github.com/NorseStar-Security/nightcrawler) | [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | 828 |
-| [Hound](https://github.com/NorseStar-Security/hound) | [scabench-org/hound](https://github.com/scabench-org/hound) | 819 |
-| [numasec](https://github.com/NorseStar-Security/numasec) | [FrancescoStabile/numasec](https://github.com/FrancescoStabile/numasec) | 810 |
-| [OpenAnt](https://github.com/NorseStar-Security/OpenAnt) | [knostic/OpenAnt](https://github.com/knostic/OpenAnt) | 763 |
-| [h5i](https://github.com/NorseStar-Security/h5i) | [h5i-dev/h5i](https://github.com/h5i-dev/h5i) | 754 |
-| [MetasploitMCP](https://github.com/NorseStar-Security/MetasploitMCP) | [GH05TCREW/MetasploitMCP](https://github.com/GH05TCREW/MetasploitMCP) | 743 |
-| [BreachWeave](https://github.com/NorseStar-Security/BreachWeave) | [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave) | 691 |
-| [Rikugan](https://github.com/NorseStar-Security/Rikugan) | [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) | 680 |
-| [Muteki](https://github.com/NorseStar-Security/muteki) | [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) | 576 |
-| [Transilience Community Tools](https://github.com/NorseStar-Security/communitytools) | [transilienceai/communitytools](https://github.com/transilienceai/communitytools) | 565 |
-| [Cyber-AutoAgent](https://github.com/NorseStar-Security/Cyber-AutoAgent) | [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) | 550 |
-| [ARTEMIS](https://github.com/NorseStar-Security/ARTEMIS) | [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) | 546 |
-| [EVA](https://github.com/NorseStar-Security/EVA) | [ARCANGEL0/EVA](https://github.com/ARCANGEL0/EVA) | 531 |
-| [flounder](https://github.com/NorseStar-Security/flounder) | [adshao/flounder](https://github.com/adshao/flounder) | 519 |
-| [0](https://github.com/NorseStar-Security/0) | [0sec-labs/0](https://github.com/0sec-labs/0) | 511 |
-| [Mantishack](https://github.com/NorseStar-Security/mantishack) | [deonmenezes/mantishack](https://github.com/deonmenezes/mantishack) | 503 |
-| [AIDA](https://github.com/NorseStar-Security/AIDA) | [Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA) | 494 |
-| [Zen-AI-Pentest](https://github.com/NorseStar-Security/Zen-Ai-Pentest) | [SHAdd0WTAka/Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) | 470 |
-| [RepoAudit](https://github.com/NorseStar-Security/RepoAudit) | [PurCL/RepoAudit](https://github.com/PurCL/RepoAudit) | 446 |
-| [OpenHack](https://github.com/NorseStar-Security/OpenHack) | [openhackai/OpenHack](https://github.com/openhackai/OpenHack) | 422 |
-| [offensive-claude](https://github.com/NorseStar-Security/offensive-claude) | [hypnguyen1209/offensive-claude](https://github.com/hypnguyen1209/offensive-claude) | 389 |
-| [BloodHound-MCP-AI](https://github.com/NorseStar-Security/BloodHound-MCP-AI) | [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) | 380 |
-| [nano-analyzer](https://github.com/NorseStar-Security/nano-analyzer) | [weareaisle/nano-analyzer](https://github.com/weareaisle/nano-analyzer) | 366 |
-| [BugTraceAI](https://github.com/NorseStar-Security/BugTraceAI) | [BugTraceAI/BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) | 356 |
-| [AdStrike](https://github.com/NorseStar-Security/AdStrike) | [capture0x/AdStrike](https://github.com/capture0x/AdStrike) | 355 |
-| [REDCELL](https://github.com/NorseStar-Security/redcell) | [martian56/redcell](https://github.com/martian56/redcell) | 338 |
-| [OpenHunterAI](https://github.com/NorseStar-Security/OpenHunterAI) | [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI) | 332 |
-| [HackSynth](https://github.com/NorseStar-Security/HackSynth) | [aielte-research/HackSynth](https://github.com/aielte-research/HackSynth) | 322 |
-| [aiscan](https://github.com/NorseStar-Security/cyber-harness) | [chainreactors/cyber-harness](https://github.com/chainreactors/cyber-harness) | 320 |
-| [apex](https://github.com/NorseStar-Security/apex) | [pensarai/apex](https://github.com/pensarai/apex) | 316 |
-| [deadend-cli](https://github.com/NorseStar-Security/deadend-cli) | [straylabs-ai/deadend-cli](https://github.com/straylabs-ai/deadend-cli) | 312 |
-| [red-run](https://github.com/NorseStar-Security/red-run) | [blacklanternsecurity/red-run](https://github.com/blacklanternsecurity/red-run) | 286 |
-| [BurpMCP-Ultra](https://github.com/NorseStar-Security/BurpMCP-Ultra) | [Cy-S3c/BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra) | 272 |
-| [seclab-taskflow-agent](https://github.com/NorseStar-Security/seclab-taskflow-agent) | [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) | 265 |
-| [baby-naptime](https://github.com/NorseStar-Security/baby-naptime) | [faizann24/baby-naptime](https://github.com/faizann24/baby-naptime) | 216 |
-| [droid-llm-hunter](https://github.com/NorseStar-Security/droid-llm-hunter) | [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter) | 205 |
-| [VulnBot](https://github.com/NorseStar-Security/VulnBot) | [KHenryAegis/VulnBot](https://github.com/KHenryAegis/VulnBot) | 198 |
-| [NyxStrike](https://github.com/NorseStar-Security/nyxstrike) | [CommonHuman-Lab/nyxstrike](https://github.com/CommonHuman-Lab/nyxstrike) | 155 |
-| [Cochise](https://github.com/NorseStar-Security/cochise) | [andreashappe/cochise](https://github.com/andreashappe/cochise) | 142 |
+| [Reaper](https://github.com/NorseStar-Security/reaper) | [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) | 883 |
+| [MCP-Kali-Server](https://github.com/NorseStar-Security/MCP-Kali-Server) | [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server) | 873 |
+| [Nightcrawler](https://github.com/NorseStar-Security/nightcrawler) | [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | 871 |
+| [numasec](https://github.com/NorseStar-Security/numasec) | [FrancescoStabile/numasec](https://github.com/FrancescoStabile/numasec) | 834 |
+| [Hound](https://github.com/NorseStar-Security/hound) | [scabench-org/hound](https://github.com/scabench-org/hound) | 826 |
+| [OpenAnt](https://github.com/NorseStar-Security/OpenAnt) | [knostic/OpenAnt](https://github.com/knostic/OpenAnt) | 802 |
+| [MetasploitMCP](https://github.com/NorseStar-Security/MetasploitMCP) | [GH05TCREW/MetasploitMCP](https://github.com/GH05TCREW/MetasploitMCP) | 760 |
+| [BreachWeave](https://github.com/NorseStar-Security/BreachWeave) | [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave) | 735 |
+| [Rikugan](https://github.com/NorseStar-Security/Rikugan) | [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) | 708 |
+| [Muteki](https://github.com/NorseStar-Security/muteki) | [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) | 662 |
+| [Transilience Community Tools](https://github.com/NorseStar-Security/communitytools) | [transilienceai/communitytools](https://github.com/transilienceai/communitytools) | 611 |
+| [Cyber-AutoAgent](https://github.com/NorseStar-Security/Cyber-AutoAgent) | [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) | 551 |
+| [ARTEMIS](https://github.com/NorseStar-Security/ARTEMIS) | [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) | 550 |
+| [EVA](https://github.com/NorseStar-Security/EVA) | [ARCANGEL0/EVA](https://github.com/ARCANGEL0/EVA) | 537 |
+| [flounder](https://github.com/NorseStar-Security/flounder) | [adshao/flounder](https://github.com/adshao/flounder) | 526 |
+| [AIDA](https://github.com/NorseStar-Security/AIDA) | [Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA) | 509 |
+| [Mantishack](https://github.com/NorseStar-Security/mantishack) | [deonmenezes/mantishack](https://github.com/deonmenezes/mantishack) | 504 |
+| [Zen-AI-Pentest](https://github.com/NorseStar-Security/Zen-Ai-Pentest) | [SHAdd0WTAka/Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) | 504 |
+| [RepoAudit](https://github.com/NorseStar-Security/RepoAudit) | [PurCL/RepoAudit](https://github.com/PurCL/RepoAudit) | 455 |
+| [OpenHack](https://github.com/NorseStar-Security/OpenHack) | [openhackai/OpenHack](https://github.com/openhackai/OpenHack) | 442 |
+| [AdStrike](https://github.com/NorseStar-Security/AdStrike) | [capture0x/AdStrike](https://github.com/capture0x/AdStrike) | 416 |
+| [offensive-claude](https://github.com/NorseStar-Security/offensive-claude) | [hypnguyen1209/offensive-claude](https://github.com/hypnguyen1209/offensive-claude) | 414 |
+| [aiscan](https://github.com/NorseStar-Security/cyber-harness) | [chainreactors/cyber-harness](https://github.com/chainreactors/cyber-harness) | 394 |
+| [BloodHound-MCP-AI](https://github.com/NorseStar-Security/BloodHound-MCP-AI) | [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) | 383 |
+| [nano-analyzer](https://github.com/NorseStar-Security/nano-analyzer) | [weareaisle/nano-analyzer](https://github.com/weareaisle/nano-analyzer) | 372 |
+| [BugTraceAI](https://github.com/NorseStar-Security/BugTraceAI) | [BugTraceAI/BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) | 370 |
+| [REDCELL](https://github.com/NorseStar-Security/redcell) | [martian56/redcell](https://github.com/martian56/redcell) | 357 |
+| [OpenHunterAI](https://github.com/NorseStar-Security/OpenHunterAI) | [LumosLab-Innovation/OpenHunterAI](https://github.com/LumosLab-Innovation/OpenHunterAI) | 343 |
+| [deadend-cli](https://github.com/NorseStar-Security/deadend-cli) | [straylabs-ai/deadend-cli](https://github.com/straylabs-ai/deadend-cli) | 326 |
+| [apex](https://github.com/NorseStar-Security/apex) | [pensarai/apex](https://github.com/pensarai/apex) | 323 |
+| [HackSynth](https://github.com/NorseStar-Security/HackSynth) | [aielte-research/HackSynth](https://github.com/aielte-research/HackSynth) | 321 |
+| [red-run](https://github.com/NorseStar-Security/red-run) | [blacklanternsecurity/red-run](https://github.com/blacklanternsecurity/red-run) | 304 |
+| [BurpMCP-Ultra](https://github.com/NorseStar-Security/BurpMCP-Ultra) | [Cy-S3c/BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra) | 297 |
+| [seclab-taskflow-agent](https://github.com/NorseStar-Security/seclab-taskflow-agent) | [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) | 284 |
+| [VulnBot](https://github.com/NorseStar-Security/VulnBot) | [KHenryAegis/VulnBot](https://github.com/KHenryAegis/VulnBot) | 223 |
+| [droid-llm-hunter](https://github.com/NorseStar-Security/droid-llm-hunter) | [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter) | 219 |
+| [baby-naptime](https://github.com/NorseStar-Security/baby-naptime) | [faizann24/baby-naptime](https://github.com/faizann24/baby-naptime) | 218 |
+| [NyxStrike](https://github.com/NorseStar-Security/nyxstrike) | [CommonHuman-Lab/nyxstrike](https://github.com/CommonHuman-Lab/nyxstrike) | 157 |
+| [Cochise](https://github.com/NorseStar-Security/cochise) | [andreashappe/cochise](https://github.com/andreashappe/cochise) | 152 |
+| [Burp MCP Server](https://github.com/NorseStar-Security/PortSwigger-mcp-server) | [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) | 7 |
+| [Burp MCP Server](https://github.com/NorseStar-Security/mcp-server) | [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) | 7 |
 | [CyberStrikeAI](https://github.com/NorseStar-Security/CyberStrikeAI) | [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 0 |
-| [ScopeWeaver](https://github.com/NorseStar-Security/scopeweaver) | [cskwork/scopeweaver](https://github.com/cskwork/scopeweaver) | 0 |
 
 </details>
 
@@ -156,57 +158,57 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 
 | Repository | Upstream | Type | ★ |
 |---|---|---|--:|
-| [Vulhub](https://github.com/NorseStar-Security/vulhub) | [vulhub/vulhub](https://github.com/vulhub/vulhub) | Range | 21.4k |
-| [GOAD](https://github.com/NorseStar-Security/GOAD) | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | Range | 8.5k |
+| [Vulhub](https://github.com/NorseStar-Security/vulhub) | [vulhub/vulhub](https://github.com/vulhub/vulhub) | Range | 21.5k |
+| [GOAD](https://github.com/NorseStar-Security/GOAD) | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | Range | 8.6k |
 | [CICD-Goat](https://github.com/NorseStar-Security/cicd-goat) | [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) | Range | 2.3k |
-| [ExploitGym](https://github.com/NorseStar-Security/exploitgym) | [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) | Scoring | 1.2k |
-| [Vuln-Bank](https://github.com/NorseStar-Security/vuln-bank) | [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) | Range | 978 |
-| [CyberGym](https://github.com/NorseStar-Security/cybergym) | [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) | Scoring | 952 |
-| [XBOW Validation Benchmarks](https://github.com/NorseStar-Security/validation-benchmarks) | [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks) | Scoring | 725 |
-| [Inspect Evals](https://github.com/NorseStar-Security/inspect_evals) | [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | Harness | 703 |
-| [BoxPwnr](https://github.com/NorseStar-Security/BoxPwnr) | [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) | Harness | 462 |
-| [Cybench](https://github.com/NorseStar-Security/cybench) | [andyzorigin/cybench](https://github.com/andyzorigin/cybench) | Scoring | 341 |
+| [ExploitGym](https://github.com/NorseStar-Security/exploitgym) | [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) | Scoring | 1.3k |
+| [CyberGym](https://github.com/NorseStar-Security/cybergym) | [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) | Scoring | 1k |
+| [Vuln-Bank](https://github.com/NorseStar-Security/vuln-bank) | [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) | Range | 996 |
+| [XBOW Validation Benchmarks](https://github.com/NorseStar-Security/validation-benchmarks) | [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks) | Scoring | 748 |
+| [Inspect Evals](https://github.com/NorseStar-Security/inspect_evals) | [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | Harness | 736 |
+| [BoxPwnr](https://github.com/NorseStar-Security/BoxPwnr) | [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) | Harness | 467 |
+| [Cybench](https://github.com/NorseStar-Security/cybench) | [andyzorigin/cybench](https://github.com/andyzorigin/cybench) | Scoring | 355 |
 
 <details><summary>All 32</summary>
 
 | Repository | Upstream | Type | ★ |
 |---|---|---|--:|
-| [Vulhub](https://github.com/NorseStar-Security/vulhub) | [vulhub/vulhub](https://github.com/vulhub/vulhub) | Range | 21.4k |
-| [GOAD](https://github.com/NorseStar-Security/GOAD) | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | Range | 8.5k |
+| [Vulhub](https://github.com/NorseStar-Security/vulhub) | [vulhub/vulhub](https://github.com/vulhub/vulhub) | Range | 21.5k |
+| [GOAD](https://github.com/NorseStar-Security/GOAD) | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | Range | 8.6k |
 | [CICD-Goat](https://github.com/NorseStar-Security/cicd-goat) | [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) | Range | 2.3k |
-| [ExploitGym](https://github.com/NorseStar-Security/exploitgym) | [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) | Scoring | 1.2k |
-| [Vuln-Bank](https://github.com/NorseStar-Security/vuln-bank) | [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) | Range | 978 |
-| [CyberGym](https://github.com/NorseStar-Security/cybergym) | [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) | Scoring | 952 |
-| [XBOW Validation Benchmarks](https://github.com/NorseStar-Security/validation-benchmarks) | [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks) | Scoring | 725 |
-| [Inspect Evals](https://github.com/NorseStar-Security/inspect_evals) | [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | Harness | 703 |
-| [BoxPwnr](https://github.com/NorseStar-Security/BoxPwnr) | [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) | Harness | 462 |
-| [Cybench](https://github.com/NorseStar-Security/cybench) | [andyzorigin/cybench](https://github.com/andyzorigin/cybench) | Scoring | 341 |
-| [CVE-Bench](https://github.com/NorseStar-Security/cve-bench) | [uiuc-kang-lab/cve-bench](https://github.com/uiuc-kang-lab/cve-bench) | Scoring | 298 |
-| [AIGoat](https://github.com/NorseStar-Security/AIGoat) | [orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat) | Range | 292 |
-| [ML CTF Challenges](https://github.com/NorseStar-Security/Machine_Learning_CTF_Challenges) | [alexdevassy/Machine_Learning_CTF_Challenges](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) | Range | 271 |
-| [InterCode](https://github.com/NorseStar-Security/intercode) | [princeton-nlp/intercode](https://github.com/princeton-nlp/intercode) | Scoring | 257 |
-| [PAYGoat](https://github.com/NorseStar-Security/PAYGoat) | [stuxctf/PAYGoat](https://github.com/stuxctf/PAYGoat) | Range | 199 |
-| [NYU CTF Bench](https://github.com/NorseStar-Security/NYU_CTF_Bench) | [NYU-LLM-CTF/NYU_CTF_Bench](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) | Scoring | 181 |
-| [BountyBench](https://github.com/NorseStar-Security/bountybench) | [bountybench/bountybench](https://github.com/bountybench/bountybench) | Scoring | 111 |
-| [ethibench](https://github.com/NorseStar-Security/ethibench) | [ethiack/ethibench](https://github.com/ethiack/ethibench) | Scoring | 107 |
-| [AutoPenBench](https://github.com/NorseStar-Security/auto-pen-bench) | [lucagioacchini/auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) | Scoring | 104 |
-| [SEC-bench](https://github.com/NorseStar-Security/SEC-bench) | [SEC-bench/SEC-bench](https://github.com/SEC-bench/SEC-bench) | Scoring | 100 |
-| [CTF-Dojo](https://github.com/NorseStar-Security/CTF-Dojo) | [amazon-science/CTF-Dojo](https://github.com/amazon-science/CTF-Dojo) | Scoring | 72 |
-| [Argus Validation Benchmarks](https://github.com/NorseStar-Security/argus-validation-benchmarks) | [pensarai/argus-validation-benchmarks](https://github.com/pensarai/argus-validation-benchmarks) | Scoring | 65 |
-| [SEC-bench Pro](https://github.com/NorseStar-Security/SEC-bench-Pro) | [SEC-bench/SEC-bench-Pro](https://github.com/SEC-bench/SEC-bench-Pro) | Scoring | 58 |
-| [Linux Privesc Benchmark](https://github.com/NorseStar-Security/benchmark-privesc-linux) | [ipa-lab/benchmark-privesc-linux](https://github.com/ipa-lab/benchmark-privesc-linux) | Scoring | 51 |
-| [Nua-Bench](https://github.com/NorseStar-Security/nua-bench) | [Nua-org/nua-bench](https://github.com/Nua-org/nua-bench) | Scoring | 47 |
-| [PACEbench](https://github.com/NorseStar-Security/PACEbench) | [RyuKosei/PACEbench](https://github.com/RyuKosei/PACEbench) | Scoring | 35 |
-| [AI-Pentest-Benchmark](https://github.com/NorseStar-Security/AI-Pentest-Benchmark) | [isamu-isozaki/AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) | Scoring | 24 |
-| [SecBench](https://github.com/NorseStar-Security/SecBench) | [secbench-git/SecBench](https://github.com/secbench-git/SecBench) | Scoring | 22 |
-| [Ostorlab Benchmarks](https://github.com/NorseStar-Security/benchmarks) | [Ostorlab/benchmarks](https://github.com/Ostorlab/benchmarks) | Scoring | 18 |
-| [ACESEvals](https://github.com/NorseStar-Security/ACESEvals) | [microsoft/ACESEvals](https://github.com/microsoft/ACESEvals) | Harness | 17 |
-| [StealthBench](https://github.com/NorseStar-Security/stealthbench) | [GangGreenTemperTatum/stealthbench](https://github.com/GangGreenTemperTatum/stealthbench) | Scoring | 11 |
-| [ScopeBench (ScopeJudge)](https://github.com/NorseStar-Security/scopejudge) | [dreadnode/scopejudge](https://github.com/dreadnode/scopejudge) | Scoring | 6 |
+| [ExploitGym](https://github.com/NorseStar-Security/exploitgym) | [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) | Scoring | 1.3k |
+| [CyberGym](https://github.com/NorseStar-Security/cybergym) | [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym) | Scoring | 1k |
+| [Vuln-Bank](https://github.com/NorseStar-Security/vuln-bank) | [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank) | Range | 996 |
+| [XBOW Validation Benchmarks](https://github.com/NorseStar-Security/validation-benchmarks) | [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks) | Scoring | 748 |
+| [Inspect Evals](https://github.com/NorseStar-Security/inspect_evals) | [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | Harness | 736 |
+| [BoxPwnr](https://github.com/NorseStar-Security/BoxPwnr) | [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) | Harness | 467 |
+| [Cybench](https://github.com/NorseStar-Security/cybench) | [andyzorigin/cybench](https://github.com/andyzorigin/cybench) | Scoring | 355 |
+| [CVE-Bench](https://github.com/NorseStar-Security/cve-bench) | [uiuc-kang-lab/cve-bench](https://github.com/uiuc-kang-lab/cve-bench) | Scoring | 310 |
+| [AIGoat](https://github.com/NorseStar-Security/AIGoat) | [orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat) | Range | 296 |
+| [ML CTF Challenges](https://github.com/NorseStar-Security/Machine_Learning_CTF_Challenges) | [alexdevassy/Machine_Learning_CTF_Challenges](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) | Range | 278 |
+| [InterCode](https://github.com/NorseStar-Security/intercode) | [princeton-nlp/intercode](https://github.com/princeton-nlp/intercode) | Scoring | 259 |
+| [PAYGoat](https://github.com/NorseStar-Security/PAYGoat) | [stuxctf/PAYGoat](https://github.com/stuxctf/PAYGoat) | Range | 202 |
+| [NYU CTF Bench](https://github.com/NorseStar-Security/NYU_CTF_Bench) | [NYU-LLM-CTF/NYU_CTF_Bench](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) | Scoring | 186 |
+| [BountyBench](https://github.com/NorseStar-Security/bountybench) | [bountybench/bountybench](https://github.com/bountybench/bountybench) | Scoring | 113 |
+| [AutoPenBench](https://github.com/NorseStar-Security/auto-pen-bench) | [lucagioacchini/auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) | Scoring | 110 |
+| [ethibench](https://github.com/NorseStar-Security/ethibench) | [ethiack/ethibench](https://github.com/ethiack/ethibench) | Scoring | 108 |
+| [SEC-bench](https://github.com/NorseStar-Security/SEC-bench) | [SEC-bench/SEC-bench](https://github.com/SEC-bench/SEC-bench) | Scoring | 104 |
+| [CTF-Dojo](https://github.com/NorseStar-Security/CTF-Dojo) | [amazon-science/CTF-Dojo](https://github.com/amazon-science/CTF-Dojo) | Scoring | 74 |
+| [Argus Validation Benchmarks](https://github.com/NorseStar-Security/argus-validation-benchmarks) | [pensarai/argus-validation-benchmarks](https://github.com/pensarai/argus-validation-benchmarks) | Scoring | 68 |
+| [SEC-bench Pro](https://github.com/NorseStar-Security/SEC-bench-Pro) | [SEC-bench/SEC-bench-Pro](https://github.com/SEC-bench/SEC-bench-Pro) | Scoring | 68 |
+| [Linux Privesc Benchmark](https://github.com/NorseStar-Security/benchmark-privesc-linux) | [ipa-lab/benchmark-privesc-linux](https://github.com/ipa-lab/benchmark-privesc-linux) | Scoring | 52 |
+| [Nua-Bench](https://github.com/NorseStar-Security/nua-bench) | [Nua-org/nua-bench](https://github.com/Nua-org/nua-bench) | Scoring | 50 |
+| [PACEbench](https://github.com/NorseStar-Security/PACEbench) | [RyuKosei/PACEbench](https://github.com/RyuKosei/PACEbench) | Scoring | 37 |
+| [AI-Pentest-Benchmark](https://github.com/NorseStar-Security/AI-Pentest-Benchmark) | [isamu-isozaki/AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) | Scoring | 25 |
+| [SecBench](https://github.com/NorseStar-Security/SecBench) | [secbench-git/SecBench](https://github.com/secbench-git/SecBench) | Scoring | 24 |
+| [ACESEvals](https://github.com/NorseStar-Security/ACESEvals) | [microsoft/ACESEvals](https://github.com/microsoft/ACESEvals) | Harness | 21 |
+| [Ostorlab Benchmarks](https://github.com/NorseStar-Security/benchmarks) | [Ostorlab/benchmarks](https://github.com/Ostorlab/benchmarks) | Scoring | 19 |
+| [StealthBench](https://github.com/NorseStar-Security/stealthbench) | [GangGreenTemperTatum/stealthbench](https://github.com/GangGreenTemperTatum/stealthbench) | Scoring | 15 |
+| [ScopeBench (ScopeJudge)](https://github.com/NorseStar-Security/scopejudge) | [dreadnode/scopejudge](https://github.com/dreadnode/scopejudge) | Scoring | 12 |
 
 </details>
 
-<p align="right"><a href="https://github.com/orgs/NorseStar-Security/repositories?type=fork">Browse all 130 forks →</a></p>
+<p align="right"><a href="https://github.com/orgs/NorseStar-Security/repositories?type=fork">Browse all 132 forks →</a></p>
 
 <p align="center"><a href="https://sec590.norsestarsecurity.com/"><img src="assets/footer.svg" width="100%" alt="SANS SEC590: Autonomous Penetration Testing: Build, Validate, and Supervise"></a></p>
 
