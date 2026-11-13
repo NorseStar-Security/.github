@@ -14,7 +14,7 @@ Autonomous operations require inspectable tools. We maintain this collection so 
 
 ## Djupleita: Seek Deeper
 
-[![A longship above a hidden network of passages.](https://raw.githubusercontent.com/NorseStar-Security/djupleita/main/assets/djupleita-hero.png)](https://github.com/NorseStar-Security/djupleita)
+[![A longship above a hidden network of passages.](assets/djupleita-hero.png)](https://github.com/NorseStar-Security/djupleita)
 
 **Seek deeper. Prove the path.**
 
@@ -30,7 +30,7 @@ Our student attack-harness project for SANS SEC590 explores how to build, valida
 
 These forks are unmodified upstream copies of open-source AI pentest harnesses and benchmarks, synced weekly. Code, credit, and licenses belong to the original authors. Follow each repository's upstream link for its source, documentation, and contribution process.
 
-**132** repositories · synced weekly from upstream · last sync 2026-11-09
+**133** repositories · synced weekly from upstream · last sync 2026-11-09
 
 #### Harnesses and tools · 100
 
@@ -154,7 +154,7 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 
 </details>
 
-#### Benchmarks and ranges · 32
+#### Benchmarks and ranges · 33
 
 | Repository | Upstream | Type | ★ |
 |---|---|---|--:|
@@ -169,7 +169,7 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 | [BoxPwnr](https://github.com/NorseStar-Security/BoxPwnr) | [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr) | Harness | 467 |
 | [Cybench](https://github.com/NorseStar-Security/cybench) | [andyzorigin/cybench](https://github.com/andyzorigin/cybench) | Scoring | 355 |
 
-<details><summary>All 32</summary>
+<details><summary>All 33</summary>
 
 | Repository | Upstream | Type | ★ |
 |---|---|---|--:|
@@ -205,10 +205,11 @@ These forks are unmodified upstream copies of open-source AI pentest harnesses a
 | [Ostorlab Benchmarks](https://github.com/NorseStar-Security/benchmarks) | [Ostorlab/benchmarks](https://github.com/Ostorlab/benchmarks) | Scoring | 19 |
 | [StealthBench](https://github.com/NorseStar-Security/stealthbench) | [GangGreenTemperTatum/stealthbench](https://github.com/GangGreenTemperTatum/stealthbench) | Scoring | 15 |
 | [ScopeBench (ScopeJudge)](https://github.com/NorseStar-Security/scopejudge) | [dreadnode/scopejudge](https://github.com/dreadnode/scopejudge) | Scoring | 12 |
+| [ARTEX](https://github.com/NorseStar-Security/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) |  | 0 |
 
 </details>
 
-<p align="right"><a href="https://github.com/orgs/NorseStar-Security/repositories?type=fork">Browse all 132 forks →</a></p>
+<p align="right"><a href="https://github.com/orgs/NorseStar-Security/repositories?type=fork">Browse all 133 forks →</a></p>
 
 <p align="center"><a href="https://sec590.norsestarsecurity.com/"><img src="assets/footer.svg" width="100%" alt="SANS SEC590: Autonomous Penetration Testing: Build, Validate, and Supervise"></a></p>
 
